@@ -7,7 +7,7 @@ package com.jewelleryapp.model;
 /**
  * LMUID: 23048637
  *
- * @author Natasha babu
+ * @author Natasha Babu
  */
 public class JewelleryModel {
 
